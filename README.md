@@ -1,2 +1,0 @@
-# gecm24
-Java 
