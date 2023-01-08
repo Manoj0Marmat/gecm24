@@ -7,6 +7,9 @@
 # BlueJ files
 *.ctxt
 
+# git ignore
+.gitignore
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
